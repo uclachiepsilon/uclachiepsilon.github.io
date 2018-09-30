@@ -24,7 +24,7 @@ body {
 /* Typography */
 html,
 body {
-  font-size: 16;
+  font-size: 16px;
   font-family: 'Roboto', sans-serif;
   line-height: 1.5;
   letter-spacing: normal;
@@ -127,6 +127,11 @@ p {
 nav {
   display: flex;
   justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #fffffff2;
 }
 
 nav > div {
@@ -142,4 +147,12 @@ nav > div > div {
 
 nav > div > div > div {
   padding: 8px;
+}
+
+/* Frontpage Header */
+.frontpage-header {
+  height: 100vh;
+  width: 100%;
+  background: url(assets/background.jpeg) no-repeat center center fixed;
+  background-size: cover;
 }
