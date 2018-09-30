@@ -120,7 +120,6 @@ p {
   line-height: 1;
   letter-spacing: 2px;
   text-transform: uppercase;
-  text-transform: uppercase;
 }
 
 /* Navbar */
@@ -153,6 +152,27 @@ nav > div > div > div {
 .frontpage-header {
   height: 100vh;
   width: 100%;
-  background: url(assets/background.jpeg) no-repeat center center fixed;
+  background: no-repeat center center scroll;
   background-size: cover;
+}
+
+.frontpage-header > .overlay {
+  height: 100%;
+  width: 100%;
+  background-color: #00000080;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.frontpage-header > .overlay > .title {
+  color: #ffffff;
+}
+
+.frontpage-header.first {
+  background-image: url(assets/background.jpeg);
+}
+
+.frontpage-header.second {
+  background-image: url(assets/construction-site-build-construction-work-159306.jpeg);
 }
