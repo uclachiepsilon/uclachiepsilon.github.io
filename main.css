@@ -1,0 +1,145 @@
+/* Normalize */
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+:root {
+  background-color: #ffffff;
+}
+
+/* Typography */
+html,
+body {
+  font-size: 16;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+  letter-spacing: normal;
+  font-weight: 400;
+  background-color: #ffffff;
+  color: #000000;
+  overflow-wrap: break-word;
+  transition: 0.125s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0.42em;
+  margin-bottom: 0.25em;
+  font-weight: 700;
+}
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 3rem;
+}
+h3 {
+  font-size: 2rem;
+}
+h4 {
+  font-size: 1.25rem;
+}
+h5 {
+  font-size: 1rem;
+}
+h6 {
+  font-size: 0.75rem;
+}
+small {
+  font-size: 0.6em;
+}
+
+h1 small,
+h2 small,
+h3 small {
+  font-size: 0.6em;
+}
+
+h4 small,
+h5 small,
+h6 small {
+  font-size: 0.8em;
+}
+
+a {
+  color: #4286f4;
+  text-decoration: unset;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+a.no-style {
+  color: unset;
+  text-decoration: unset;
+}
+
+a.no-style:hover {
+  text-decoration: unset;
+}
+
+a.no-color {
+  color: unset;
+}
+
+p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.colossal {
+  font-size: 96px;
+  margin: 0;
+  line-height: 1;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.mammoth {
+  font-size: 256px;
+  margin: 0;
+  line-height: 1;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-transform: uppercase;
+}
+
+/* Navbar */
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav > div {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1024px;
+  width: 100%;
+}
+
+nav > div > div {
+  display: flex;
+}
+
+nav > div > div > div {
+  padding: 8px;
+}
