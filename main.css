@@ -116,7 +116,7 @@ p {
 }
 
 .mammoth {
-  font-size: 256px;
+  font-size: calc(50px + 10vw);
   margin: 0;
   line-height: 1;
   letter-spacing: 2px;
