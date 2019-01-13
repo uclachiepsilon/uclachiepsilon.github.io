@@ -298,3 +298,29 @@ nav > div > div > div {
 .section-title {
   margin: 64px 0 32px;
 }
+
+.member-photo {
+  width: 100%;
+  object-fit: cover;
+}
+
+.card-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.card-row > .card {
+  background-color: #dbdbdb;
+  padding: 16px 32px;
+  margin: 8px;
+  width: calc(50% - 16px);
+  border-radius: 4px;
+}
+
+@media (min-width: 1024px) {
+  .card-row > .card {
+    width: calc(25% - 16px);
+  }
+}
