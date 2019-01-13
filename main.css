@@ -119,6 +119,8 @@ a.no-color {
 p {
   margin-top: 1rem;
   margin-bottom: 1rem;
+  font-size: 1.25rem;
+  max-width: 40rem;
 }
 
 .colossal {
@@ -227,6 +229,14 @@ nav > div > div > div {
   margin: auto;
 }
 
+.container.thin {
+  max-width: 768px;
+}
+
+.top {
+  margin-top: 64px;
+}
+
 .profile {
   display: flex;
   justify-content: center;
@@ -267,4 +277,24 @@ nav > div > div > div {
   height: 256px;
   object-fit: cover;
   border-radius: 50%;
+}
+
+.hero {
+  padding: 64px;
+  font-size: 3rem;
+  min-height: 512px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.section {
+  padding: 64px;
+  background-color: #dbdbdb;
+  border-radius: 8px;
+}
+
+.section-title {
+  margin: 64px 0 32px;
 }
