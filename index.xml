@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UCLA Chi Epsilon</title>
+    <link>http://example.org/</link>
+    <description>Recent content on UCLA Chi Epsilon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam lacus.     We help the community.   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam lacus, fermentum id urna sit amet, ullamcorper tempus lectus. Donec tincidunt felis sem, in interdum urna iaculis ac. Mauris tristique magna sed orci ullamcorper, vitae eleifend lectus vulputate. Nunc vestibulum, lectus vitae placerat commodo, sem dui maximus tellus, in volutpat sem neque auctor libero.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>http://example.org/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/events/</guid>
+      <description> Events     </description>
+    </item>
+    
+    <item>
+      <title>Join</title>
+      <link>http://example.org/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/join/</guid>
+      <description>Join Us    Donec a eros est. Cras quis pretium orci, sit amet dapibus augue. Nunc dignissim pharetra arcu et consectetur. Qualifications  Nunc eget erat erat. Fusce at est in dui maximus tincidunt fermentum ut risus. Sed facilisis nulla vitae lectus malesuada facilisis. Nulla dignissim neque sed libero porttitor, nec scelerisque est lobortis. Duis quis fermentum nunc, eget tristique ipsum. Aenean non ligula metus. Vivamus suscipit lorem sed tincidunt cursus.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>http://example.org/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/members/</guid>
+      <description> New Initiates   President Joe Schmo  Vice President Bob Schmo  Nobody  Nobody  Nobody  Nobody  Nobody  Nobody  Nobody  Nobody  Nobody    </description>
+    </item>
+    
+    <item>
+      <title>Officers</title>
+      <link>http://example.org/officers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/officers/</guid>
+      <description>Officers    Joe Schmo  President  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam lacus, fermentum id urna sit amet, ullamcorper tempus lectus. Donec tincidunt felis sem, in interdum urna iaculis ac. Mauris tristique     Bob Schmo  Vice President  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut quam lacus, fermentum id urna sit amet, ullamcorper tempus lectus. Donec tincidunt felis sem, in interdum urna iaculis ac.</description>
+    </item>
+    
+  </channel>
+</rss>
