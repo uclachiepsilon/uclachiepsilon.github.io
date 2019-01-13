@@ -120,7 +120,6 @@ p {
   margin-top: 1rem;
   margin-bottom: 1rem;
   font-size: 1.25rem;
-  max-width: 40rem;
 }
 
 .colossal {
@@ -290,7 +289,7 @@ nav > div > div > div {
 }
 
 .section {
-  padding: 64px;
+  padding: 64px 96px;
   background-color: #dbdbdb;
   border-radius: 8px;
 }
