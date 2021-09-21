@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>About</title>
+      <link>https://uclachiepsilon.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uclachiepsilon.github.io/about/</guid>
+      <description>The Civil Engineering Honor Society at UCLA     Our History   In the Spring of 1922, a group of seniors and a group of juniors at the University of Illinois independently originated the idea of organizing a fraternity that would recognize the student who excels in the fundamental qualities of the successful civil engineer, and who would use those abilities constructively in advancing the civil engineering profession.</description>
+    </item>
+    
+    <item>
       <title>Events</title>
       <link>https://uclachiepsilon.github.io/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -54,7 +63,7 @@ National Chi Epsilon    Why Join?  Your achievement in scholastic endeavors is r
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://uclachiepsilon.github.io/officers/</guid>
-      <description>Officers   Camryn LopezPresidentCamryn Lopez is a senior civil engineering major interested in pursuing a career in hydrology. She currently works as an intern for a civil engineering company learning about the design of civil infrastructure. Camryn is also passionate about supporting and encouraging women in STEM through the Society of Women Engineers (SWE) and outreach. Outside of the classroom, she enjoys dancing, tennis, and crocheting.</description>
+      <description>Officers   Bryant YangPresidentBryant Yang is fourth-year civil engineering major with an interest in hydrology/wastewater and environmental engineering. He currently works as an engineering intern for a second-hand treatment wastewater plant. Bryant is also involved in advancing the Chinese American community through the Association of Chinese Americans at UCLA. Outside the classroom. he enjoys photography, discovering and bingeing shonen animes, and ubering his friends around.</description>
     </item>
     
   </channel>
